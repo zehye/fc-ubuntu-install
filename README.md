@@ -21,8 +21,8 @@
 - Shortcuts Tab 클릭 후 Typing 클릭
 - `Switch to Next source, Switch to Previous sourc, Compose Key, Alternative Characters Key`를 모두 `Disabled`로 선택
   - **Disabled로 선택하기 위해서는 backspace를 누르면 된다.**
-- **Compose Key**는 Diabled를 길게 눌러 `Right Alt`를 선택
-- **Switch to next source**는 한/영키를 눌러 `Multikey`를 선택
+- Compose Key는 Diabled를 길게 눌러 `Right Alt`를 선택
+- Switch to next source는 한/영키를 눌러 `Multikey`를 선택
   - **반드시 Compose Key 설정이 먼저되어야 Multikey를 선택할 수 있다.** 
    
 <hr>
