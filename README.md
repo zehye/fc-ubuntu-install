@@ -1,4 +1,4 @@
-# Ubuntu install
+# Ubuntu 16.04 install
 
 - Ubuntu 버전: ubuntu-16.04.6-server-amd64
   - iso: http://releases.ubuntu.com/16.04.6/ubuntu-16.04.6-desktop-amd64.iso
